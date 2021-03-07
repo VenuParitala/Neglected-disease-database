@@ -1,0 +1,7 @@
+"ChEMBL ID";"Name";"UniProt Accessions";"Type";"Organism";"Compounds";"Activities";"Tax ID";"Species Group Flag"
+"CHEMBL5980";"Dengue virus type 2 NS3 protein";"P29990";"SINGLE PROTEIN";"Dengue virus type 2 (strain Thailand/16681/1984) (DENV-2)";"1060";"1096";"31634";"False"
+"CHEMBL613757";"Dengue virus";"";"ORGANISM";"Dengue virus";"232";"308";"12637";"False"
+"CHEMBL613728";"Dengue virus type 4";"";"ORGANISM";"Dengue virus 4";"97";"113";"11070";"False"
+"CHEMBL613360";"Dengue virus 1";"";"ORGANISM";"Dengue virus 1";"74";"79";"11053";"False"
+"CHEMBL612717";"Dengue virus 3";"";"ORGANISM";"Dengue virus 3";"72";"74";"11069";"False"
+"CHEMBL613966";"Dengue virus 2";"";"ORGANISM";"Dengue virus 2";"693";"989";"11060";"False"
